@@ -12,6 +12,8 @@ allprojects {
 		}
 	}
  ```
+ 
+Module gradle
 ```
 dependencies {
 	        implementation 'com.github.CodevelopersGT:Falcon:v0.0.1'
