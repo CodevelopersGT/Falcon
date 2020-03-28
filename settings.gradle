@@ -1,0 +1,3 @@
+rootProject.name='Falcon'
+include ':app'
+include ':falcon'
